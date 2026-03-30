@@ -59,6 +59,7 @@ dependencies {
     implementation("androidx.camera:camera-view:1.3.0")
     implementation("androidx.compose.foundation:foundation:1.6.0") // 必須 1.5.0 以上
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
+    implementation("com.google.mlkit:text-recognition-chinese:16.0.0")
 
     // CameraX
     implementation(libs.androidx.camera.core)
